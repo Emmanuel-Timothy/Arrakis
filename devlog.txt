@@ -1,0 +1,24 @@
+---Pre_Alpha---
+0.1.1
+able to duplicate but replica can't duplicate
+---Alpha---
+0.1.2
+fixed replica can't duplicate but replica's duplicate can only overide the py... you know what I meant, the replica itself is independent but I NEED TO FIX THE REPLICA NAMING
+---Pre_Beta--
+0.2.1
+Replica now duplicate at random location, also reworked the entire code since this one is easier...
+0.3.1
+new feature: being able to run on background... I think, cuz exe won't works
+0.4.1
+added the popup, also added infect py file
+0.5.1
+the file now can move... I think
+0.5.2
+fix the exe and py file format
+0.5.3
+yes, the file can inded move
+0.6.1
+the file now move on all C:// dir
+0.6.2
+the file now move on all dir
+---Beta---
